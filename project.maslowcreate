@@ -2,7 +2,7 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Martines",
+            "name": "Martinez",
             "x": 0,
             "y": 0,
             "uniqueID": 245479,
@@ -12,8 +12,8 @@
                 {
                     "atomType": "Output",
                     "name": "Output",
-                    "x": 0.16623600344530576,
-                    "y": 0.49041095890410963,
+                    "x": 0.207725321888412,
+                    "y": 0.5487804878048781,
                     "ioValues": []
                 }
             ],
